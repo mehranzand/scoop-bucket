@@ -1,19 +1,19 @@
 {
-    "version": "0.5.3",
+    "version": "0.5.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mehranzand/repofleet/releases/download/v0.5.3/repofleet_windows_amd64.zip",
+            "url": "https://github.com/mehranzand/repofleet/releases/download/v0.5.4/repofleet_windows_amd64.zip",
             "bin": [
                 "rf.exe"
             ],
-            "hash": "4278fc97bf27a11a04dd7e595eea7a6eb8bc90c81aca5bdad6d415874772d424"
+            "hash": "711af6a9bd755e58140665deb1604bfe0fdc4fd7fae1c258909a303b286b4fea"
         },
         "arm64": {
-            "url": "https://github.com/mehranzand/repofleet/releases/download/v0.5.3/repofleet_windows_arm64.zip",
+            "url": "https://github.com/mehranzand/repofleet/releases/download/v0.5.4/repofleet_windows_arm64.zip",
             "bin": [
                 "rf.exe"
             ],
-            "hash": "fc76f49a1af86a4c39bbb425f741957807692a7f757a10fff673b00dd445b10c"
+            "hash": "3a3f53ef6c0c44b5a5e5556df1fb44d9b7600ad0d90326853d6b861ab51513c8"
         }
     },
     "homepage": "https://github.com/mehranzand/repofleet",
