@@ -6,14 +6,14 @@
             "bin": [
                 "rf.exe"
             ],
-            "hash": "5298f016a0e34fdaee977ab714e7a883d479d8fca6076bc9ac7768d36da4ea13"
+            "hash": "553a94260fb2620ba2027da82288c60be9b52fb3cc8065b6aeb22aed6c18d656"
         },
         "arm64": {
             "url": "https://github.com/mehranzand/repofleet/releases/download/v0.7.0/repofleet_windows_arm64.zip",
             "bin": [
                 "rf.exe"
             ],
-            "hash": "622887cb79bba04e0360dca4c95456d9f2b3c4b13748d846f061e8d78ee285db"
+            "hash": "030f7693c6dfea191d79fb8444642f051b416898b9b5b2cf569f11e37856b67e"
         }
     },
     "homepage": "https://github.com/mehranzand/repofleet",
